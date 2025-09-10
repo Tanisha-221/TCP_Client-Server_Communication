@@ -50,7 +50,9 @@ This project implements a lightweight TCP client-server monitoring system deploy
 - **Monitoring Server VM:** Runs a TCP server listening for heartbeat, messages and attachement
 - **Client Agent VMs:** Run TCP clients sending heartbeats every 20 seconds, messages and attachment
 - **Azure Network:** Configured with NSGs allowing TCP ports, subnet segmentation, and public IPs.
-
+```
+https://github.com/Tanisha-221/TCP_Client-Server_Communication/blob/main/StepsToBuildTheProject/SystemDesign.md
+```
 ---
 
 ## Technology Stack
@@ -109,7 +111,9 @@ python3 -version
 
 - **Client code:** Located in `tcp-monitoring/client.py`  
   This script implements the TCP client agent that connects to the server and sends heartbeat messages every 20 seconds. It also have files for file transfer handshake protocol.
-
+```
+https://github.com/Tanisha-221/TCP_Client-Server_Communication/tree/main/Python-Code
+```
 ---
 
 ### Running the Code
@@ -185,7 +189,7 @@ Sign in with your Azure credentials.
 
 Open PowerShell (Windows PowerShell, PowerShell Core, or Azure Cloud Shell) and run the deployment script included in this repository:
 ```
-
+https://github.com/Tanisha-221/TCP_Client-Server_Communication/blob/main/Scripts/script.ps1
 ```
 
 Ensure you are signed in to Azure in your PowerShell session by running:
