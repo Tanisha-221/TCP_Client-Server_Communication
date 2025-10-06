@@ -451,4 +451,4 @@ This project demonstrates a complete cycle from coded applications through cloud
 
 *Thank you for your attention! Feel free to explore the repository for code, scripts, and detailed documentation to replicate or extend this project.*
 
-[Go here](https://github.com/Tanisha-221/Load_Balancer-VM_Scale/blob/main/Docs/Networking/1.%20Basics.md)
+[Go here](https://github.com/Tanisha-221/Load_Balancer-VM_Scale/blob/main/Docs/Networking/1.%20Basics.md) to know how to create load-balancer in vmss.
